@@ -7,7 +7,7 @@ public class Main {
         String hiddenWord;
 
         final String[] words = {"java", "skillman", "python", "test"};
-        final int MAX_INC0RRECT_GUESSES = 6;
+        final int MAX_INC0RRECT_GUESSES = 7;
         final Scanner scanner = new Scanner(System.in);
         int incorrectGuesses = 0;
 
